@@ -4,6 +4,10 @@ body {
   background-attachment: fixed;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .app-footer {
   text-align: center;
   margin: 30px;
