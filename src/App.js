@@ -19,6 +19,7 @@ export default function App() {
             <a
               href="https://github.com/kiyooteru/dictionary-project"
               target="_blank"
+              rel="noreferrer"
             >
               open-sourced on GitHub
             </a>
